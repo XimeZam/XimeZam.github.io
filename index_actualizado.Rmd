@@ -1,0 +1,41 @@
+---
+title: "Ximena Zamora"
+image: "foto.jpg "
+links:
+  #- label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
+    #url: "https://www.linkedin.com/in/evelia-lorena-coss-navarrete-562226229/"
+  #- label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
+   # url: "https://twitter.com/EveliaCoss/"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/XimeZam"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "ximena.zamora@encit.unam.mx"
+  #- label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
+   # url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
+output:
+  postcards::jolla
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Bio** 
+
+I am interested in the environmental impact  humans have on the planet and how scientific communication and educating people could improve this
+
+
+
+#### **Education**
+
+I am currently Studying Earth Science with a special focus on Environmental Science
+
+
+
+#### **Experience**
+
+
+
+
+
+
