@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>Evelia Coss </b>
+<b>Ximena Zamora </b>
 </h1>
 
 ### Bio
